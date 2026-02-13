@@ -1,0 +1,5 @@
+{
+  "name": "Power Platform Solution Insights",
+  "description": "An intelligent tool to explore and analyze unmanaged Power Platform solution ZIP files using Gemini. Navigate through XML, JSON, and code files with AI-powered explanations and logic analysis.",
+  "requestFramePermissions": []
+}
